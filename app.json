@@ -1,5 +1,5 @@
 {
-    "name": "𝐒𝐚𝐧𝐤𝐢 𝐌𝐮𝐬𝐢𝐜",
+    "name": "𝐗𝐃𝐌𝐔𝐒𝐈𝐂_𝐗_𝐁𝐎𝐓",
     "description": "𝑨𝒏 𝑨𝒅𝒗𝒂𝒏𝒄𝒆𝒅 𝑨𝒏𝒅 𝑺𝒖𝒑𝒆𝒓𝒇𝒂𝒔𝒕 𝑨𝒖𝒅𝒊𝒐/𝑽𝒊𝒅𝒆𝒐 𝑷𝒍𝒂𝒚𝒆𝒓 𝑩𝒐𝒕 𝑭𝒐𝒓 𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎 𝑽𝑪.",
     "logo": "https://graph.org/file/dd581dd6d8f8f7ea00d16.jpg",
     "keywords": [
@@ -10,50 +10,50 @@
     "repository": "https://github.com/XdityaHalder/SankiMusic",
     "success_url": "https://t.me/AdityaDiscus",
     "env": {
-        "API_ID": {
+        "API_ID": "24044242",
             "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑰𝑫",
             "required": true
         },
-        "API_HASH": {
+        "API_HASH": "38f65ff90865faaf9a2301a62ee8e642",
             "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑯𝒂𝒔𝒉",
             "required": true
         },
-        "BOT_TOKEN": {
+        "BOT_TOKEN": "6405981650:AAFUWhhLc0aEcjjoik2ifvaSBnoPcv4V13s",
             "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑩𝒐𝒕 𝑻𝒐𝒌𝒆𝒏",
             "required": true
         },
-        "STRING_SESSION": {
+        "STRING_SESSION": "BQCuLhRT7-7miG38dgrYELsLpMQ4J2oJU1-BkODNvkXTd8l57awgps3rfxZvjkDKSqT3tXdCtUYUaJCLwFGkFwtLbeE9YXw4gVsj0SaxPBiPeLLpqZ6LcZkFtpKsG83MUm00LIVrfpvar2uFvLPbtpSEmrbD5oOE-8RRdUTFfrGugO-ezyQd7s2V6AlkYZATlJJqIBYjJzj4dV5xhGke3obt3Ss8anAFyjx-AyOO3HQ2qtkDZLG4spoQo2TBm1Uut_ckNnrdoTagLx0nSZ6DkJ0r8xqA1oPuXnl13SoubcAk_OGYcxsv9CjMLz6m5vrqSoP0KrTn5u1IJHjtV7UrzwauAAAAAXV2PuAA",
             "description": "𝑬𝒏𝒕𝒆𝒓 𝑷𝒚𝒓𝒐𝒈𝒓𝒂𝒎 𝑺𝒕𝒓𝒊𝒏𝒈 𝑺𝒔𝒆𝒔𝒔𝒊𝒐𝒏 𝑶𝒇 𝒀𝒐𝒖𝒓 𝑨𝒔𝒔𝒊𝒔𝒕𝒂𝒏𝒕 𝑰𝑫",
             "required": true
         },
-        "DURATION_LIMIT": {
+        "DURATION_LIMIT": "400",
             "description": "𝑺𝒐𝒏𝒈 𝑫𝒖𝒓𝒂𝒕𝒊𝒐𝒏 𝑳𝒊𝒎𝒊𝒕 (𝑴𝒊𝒏𝒖𝒕𝒆𝒔)",
             "required": true,
             "value": "60"
         },
-        "MONGO_DB_URL": {
+        "MONGO_DB_URL": "mongodb+srv://Devuxd:9925502486vidi@devu.gffv6m3.mongodb.net/?retryWrites=true&w=majority",
             "description": "𝑬𝒏𝒕𝒆𝒓 𝑴𝒐𝒏𝒈𝒐 𝑫𝒂𝒕𝒂𝒃𝒂𝒔𝒆 𝑼𝑹𝑳",
             "required": true
         },
-        "OWNER_ID": {
+        "OWNER_ID": "6265650912",
             "description": "𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎 𝑼𝒔𝒆𝒓 𝑰𝑫 𝑶𝒇 𝑩𝒐𝒕 𝑶𝒘𝒏𝒆𝒓",
             "required": true
         },
-        "LOG_GROUP_ID": {
+        "LOG_GROUP_ID": "1002090732276"
             "description": "𝑩𝒐𝒕 𝑳𝒐𝒈𝒈𝒆𝒓 𝑮𝒓𝒐𝒖𝒑 𝑰𝑫",
             "required": true
         },
-        "MUSIC_BOT_NAME": {
+        "MUSIC_BOT_NAME": "𝐗𝐃𝐌𝐔𝐒𝐈𝐂_𝐗_𝐁𝐎𝐓",
             "description": "𝑴𝒖𝒔𝒊𝒄 𝑩𝒐𝒕 𝑵𝒂𝒎𝒆 (𝑼𝒔𝒆 𝑵𝒐𝒓𝒎𝒂𝒍 𝑭𝒐𝒏𝒕)",
             "required": true,
             "value": "Aditya Player"
         },
-        "SUPPORT_CHANNEL": {
+        "SUPPORT_CHANNEL": 
             "description": "𝒀𝒐𝒖𝒓 𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 𝑳𝒊𝒏𝒌 𝑰𝒇 𝒀𝒐𝒖 𝑯𝒂𝒗𝒆 𝑬𝒍𝒔𝒆 𝑳𝒆𝒂𝒗𝒆 𝑰𝒕 𝑨𝒔 𝑫𝒆𝒇𝒂𝒖𝒍𝒕",
             "required": false,
             "value": "https://t.me/adityaserver"
         },
-        "SUPPORT_GROUP": {
+        "SUPPORT_GROUP": "1002090732276"
             "description": "𝒀𝒐𝒖𝒓 𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎 𝑮𝒓𝒐𝒖𝒑 𝑳𝒊𝒏𝒌 𝑰𝒇 𝒀𝒐𝒖 𝑯𝒂𝒗𝒆 𝑬𝒍𝒔𝒆 𝑳𝒆𝒂𝒗𝒆 𝑰𝒕 𝑨𝒔 𝑫𝒆𝒇𝒂𝒖𝒍𝒕",
             "required": false,
             "value": "https://t.me/adityadiscus"
